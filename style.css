@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 23px;
+    margin: 0;
+    box-shadow: 5px 5px 5px gray;
+    width: 100%;
+    background: rgb(0,18,255);
+background: linear-gradient(90deg, rgba(0,18,255,1) 0%, rgba(255,0,0,1) 50%, rgba(237,255,0,1) 100%);
+
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.copy_right_footer
+{
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background: rgb(239,0,255);
+    background: linear-gradient(90deg, rgba(239,0,255,1) 0%, rgba(0,255,175,1) 25%, rgba(0,255,166,1) 37%, rgba(0,255,97,1) 51%, rgba(0,255,162,1) 63%, rgba(0,255,175,1) 75%, rgba(239,0,255,1) 100%);
+}
+canvas
+{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border: solid white 5px;
+}
+body
+{
+    
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,126,7,1) 13%, rgba(241,255,0,1) 25%, rgba(117,255,8,1) 38%, rgba(181,255,0,1) 50%, rgba(117,255,8,1) 62%, rgba(241,255,0,1) 75%, rgba(255,0,0,1) 100%);
+font-family: cursive;
+}
